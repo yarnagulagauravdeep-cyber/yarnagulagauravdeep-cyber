@@ -72,7 +72,7 @@
 
 ## 📫 Connect with me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yarnagulagauravdeep@gmail.com)# Hi, I'm Gaurav Deep 👋
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=yarnagulagauravdeep@gmail.com)# Hi, I'm Gaurav Deep 👋
 
 🎓 B.Tech (ECM) Student at VIT Chennai (2025–2029)  
 🤖 AI Enthusiast | 💻 Web Developer | 🐍 Python & C/C++ Programmer  
