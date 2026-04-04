@@ -29,8 +29,7 @@
 
 ## 📊 GitHub Stats
 
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yarnagulagauravdeep-cyber&show_icons=true&theme=tokyonight)
-
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yarnagulagauravdeep-cyber&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 ---
 
 ## 📫 Connect with me
