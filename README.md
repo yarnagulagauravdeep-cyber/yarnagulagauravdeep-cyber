@@ -22,8 +22,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Pinterest Clone](https://github.com/yarnagulagauravdeep-cyber/pinterest_clone) | Pinterest-style webpage with grid layout | HTML, CSS |
-| Amazon Clone | Amazon homepage with navbar & product sections | HTML, CSS, JS |
-
+| [Rock Paper Scissors Game](https://github.com/yarnagulagauravdeep-cyber/rock_paper_scissors_project) | Interactive game with score tracking and dynamic UI | HTML, CSS, JS |
 ---
 
 ## 📊 GitHub Stats
