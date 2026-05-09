@@ -23,7 +23,7 @@
 |---------|-------------|------|
 | [Pinterest Clone](https://github.com/yarnagulagauravdeep-cyber/pinterest_clone) | Pinterest-style webpage with grid layout | HTML, CSS |
 | [Rock Paper Scissors Game](https://github.com/yarnagulagauravdeep-cyber/rock_paper_scissors_project) | Interactive game with score|tracking and dynamic UI | HTML, CSS, JS |
-| [Amazon clone](https://gtihub.com/yarnagulagauravdeep-cyber/Amazon_clone)|simple amazon clone | HTML, CSS, JS |
+| [Amazon clone](https://github.com/yarnagulagauravdeep-cyber/Amazon_clone)|simple amazon clone | HTML, CSS, JS |
 ---
 
 ## 📊 GitHub Stats
