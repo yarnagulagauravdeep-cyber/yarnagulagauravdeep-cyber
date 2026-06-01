@@ -50,7 +50,7 @@
 | [🖼️ Pinterest Clone](https://github.com/yarnagulagauravdeep-cyber/pinterest_clone) | Pinterest-style responsive webpage with masonry grid layout | HTML, CSS |
 | [✂️ Rock Paper Scissors](https://github.com/yarnagulagauravdeep-cyber/rock_paper_scissors_project) | Interactive game with score tracking and dynamic UI | HTML, CSS, JS |
 | [🛒 Amazon Clone](https://github.com/yarnagulagauravdeep-cyber/Amazon_clone) | Amazon-inspired e-commerce homepage clone | HTML, CSS, JS |
-
+| [📰 Newspaper Search Agent](https://github.com/yarnagulagauravdeep-cyber/newspaper_search_agent_using_newsapi) | Web app to search & browse real-time news articles with a responsive card grid UI | HTML, CSS, JS, NewsAPI |
 ---
 
 <div align="center">
