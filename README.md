@@ -53,11 +53,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yarnagulagauravdeep-cyber&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=yarnagulagauravdeep-cyber&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarnagulagauravdeep-cyber&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 
 </div>
