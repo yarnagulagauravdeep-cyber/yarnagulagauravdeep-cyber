@@ -53,14 +53,6 @@
 | [📰 Newspaper Search Agent](https://github.com/yarnagulagauravdeep-cyber/newspaper_search_agent_using_newsapi) | Web app to search & browse real-time news articles with a responsive card grid UI | HTML, CSS, JS, NewsAPI |
 ---
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yarnagulagauravdeep-cyber&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yarnagulagauravdeep-cyber&theme=tokyonight" height="165" alt="Top Languages"/>
-
-</div>
-
----
 
 ## 🎯 2029 Goal
 
