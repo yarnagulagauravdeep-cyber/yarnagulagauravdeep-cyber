@@ -56,7 +56,7 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=yarnagulagauravdeep-cyber&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarnagulagauravdeep-cyber&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yarnagulagauravdeep-cyber&theme=tokyonight" height="165" alt="Top Languages"/>
 
 </div>
 
