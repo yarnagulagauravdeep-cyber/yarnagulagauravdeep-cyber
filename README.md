@@ -47,12 +47,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🖼️ Pinterest Clone](https://github.com/yarnagulagauravdeep-cyber/pinterest_clone) | Pinterest-style responsive webpage with masonry grid layout | HTML, CSS |
-| [✂️ Rock Paper Scissors](https://github.com/yarnagulagauravdeep-cyber/rock_paper_scissors_project) | Interactive game with score tracking and dynamic UI | HTML, CSS, JS |
-| [🛒 Amazon Clone](https://github.com/yarnagulagauravdeep-cyber/Amazon_clone) | Amazon-inspired e-commerce homepage clone | HTML, CSS, JS |
+| [⚛️ React Projects](https://github.com/yarnagulagauravdeep-cyber/React-projects) | Monorepo of React apps — components practice, notes app, and Apple iPhone 15 Pro clone with GSAP animations | React, Tailwind, GSAP |
 | [📰 Newspaper Search Agent](https://github.com/yarnagulagauravdeep-cyber/newspaper_search_agent_using_newsapi) | Web app to search & browse real-time news articles with a responsive card grid UI | HTML, CSS, JS, NewsAPI |
----
 
+---
 
 ## 🎯 2029 Goal
 
