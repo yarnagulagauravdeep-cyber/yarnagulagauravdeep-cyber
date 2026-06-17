@@ -50,7 +50,7 @@
 |---------|-------------|------|
 | [⚛️ React Projects](https://github.com/yarnagulagauravdeep-cyber/React-projects) | Monorepo of React apps — components practice, notes app, and Apple iPhone 15 Pro clone with GSAP animations | React, Tailwind, GSAP |
 | [📰 Newspaper Search Agent](https://github.com/yarnagulagauravdeep-cyber/newspaper_search_agent_using_newsapi) | Web app to search & browse real-time news articles with a responsive card grid UI | HTML, CSS, JS, NewsAPI |
-| [🟢 OMNIDECK](https://github.com/yarnagulagauravdeep-cyber/ben10-project) | Immersive 3D terminal database for the Ben 10 universe — features floating alien models, glass-morphism UI, and autonomous GSAP breathing animations | React, Three.js, GSAP, Tailwind |
+| [🟢 OMNIDECK](https://github.com/yarnagulagauravdeep-cyber/ben10-project) | Immersive 3D terminal database for the Ben 10 universe — features floating alien models, glass-morphism UI, and autonomous GSAP breathing animations · [Live Demo ↗](https://omnideck28.vercel.app) | React, Three.js, GSAP, Tailwind |
 
 ---
 
