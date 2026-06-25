@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,EC4899&height=200&section=header&text=Gaurav%20Deep&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20VIT%20Chennai%202029&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,EC4899&height=200&section=header&text=Gaurav%20Deep&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%7C%20Full%20Stack%20Dev%20%7C%20VIT%20Chennai%202029&descSize=18&descAlignY=58" width="100%" />
 
 # Hey there! I'm Gaurav Deep 👋
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-🎓 **B.Tech Electronics & Communication Engineering** — VIT Chennai (2025–2029)  
+🎓 **B.Tech Electronics & Computer Engineering** — VIT Chennai (2025–2029)  
 🤖 Building toward **Generative AI Engineering** (LLMs, RAG Pipelines, AI Products)  
 📍 Vishakhapatnam, Andhra Pradesh
 
