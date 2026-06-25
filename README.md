@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,EC4899&height=200&section=header&text=Gaurav%20Deep&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20VIT%20Chennai%202029&descSize=18&descAlignY=58" width="100%" />
+
 # Hey there! I'm Gaurav Deep 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=B.Tech+ECM+%40+VIT+Chennai;Generative+AI+Engineer+in+the+making;Full+Stack+Web+Developer;Python+%7C+C%2B%2B+%7C+JavaScript" alt="Typing SVG" />
@@ -14,6 +16,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarnagulagauravdeep@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yarnagulagauravdeep-cyber)
+![Profile Views](https://komarev.com/ghpvc/?username=yarnagulagauravdeep-cyber&style=for-the-badge&color=6366F1&label=Profile+Views)
 
 </div>
 
@@ -36,6 +39,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -54,6 +62,22 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yarnagulagauravdeep-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=ffffff" height="170" alt="GitHub Stats" />
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=yarnagulagauravdeep-cyber&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=EC4899&currStreakLabel=6366F1&sideLabels=8B5CF6&dates=888888" height="170" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yarnagulagauravdeep-cyber&bg_color=0D1117&color=6366F1&line=8B5CF6&point=EC4899&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
+</div>
+
+---
+
 ## 🎯 2029 Goal
 
 > Building AI-powered products as a **Generative AI Engineer** — working with LLMs, RAG pipelines, and full-stack AI applications using React, Next.js, FastAPI, and LangChain.
@@ -63,5 +87,9 @@
 <div align="center">
 
 *Thanks for visiting! Feel free to explore my projects or reach out 🙌*
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,EC4899&height=120&section=footer" width="100%" />
 
 </div>
