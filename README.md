@@ -48,6 +48,11 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+**GenAI / APIs**
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Google AI SDK](https://img.shields.io/badge/Google_AI_SDK-4285F4?style=flat-square&logo=google&logoColor=white)
+
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -60,7 +65,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🩺 MedPulse AI](https://github.com/yarnagulagauravdeep-cyber/Medical-Analysis-Chatbot) | Metric-guided clinical profiling and diagnostic reasoning portal — parses symptoms alongside vital signs (BP, sugar, heart rate, SpO2) to map clinical priority paths via a serverless AI reasoning layer · [Live Demo ↗](https://medical-analysis-chatbot.vercel.app/) | React, Vite, Tailwind, Node.js, Express |
+| [🩺 MedPulse AI](https://github.com/yarnagulagauravdeep-cyber/Medical-Analysis-Chatbot) | Metric-guided clinical profiling and diagnostic reasoning portal — parses symptoms alongside vital signs (BP, sugar, heart rate, SpO2) to map clinical priority paths via a serverless AI reasoning layer powered by the Google Gemini API with multi-key failover rotation · [Live Demo ↗](https://medical-analysis-chatbot.vercel.app/) | React, Vite, Tailwind, Node.js, Express, Gemini API |
 | [⚛️ React Projects](https://github.com/yarnagulagauravdeep-cyber/React-projects) | Monorepo of React apps — components practice, notes app, and Apple iPhone 15 Pro clone with GSAP animations | React, Tailwind, GSAP |
 | [📰 Newspaper Search Agent](https://github.com/yarnagulagauravdeep-cyber/newspaper_search_agent_using_newsapi) | Web app to search & browse real-time news articles with a responsive card grid UI | HTML, CSS, JS, NewsAPI |
 | [🟢 OMNIDECK](https://github.com/yarnagulagauravdeep-cyber/ben10-project) | Immersive 3D terminal database for the Ben 10 universe — features floating alien models, glass-morphism UI, and autonomous GSAP breathing animations · [Live Demo ↗](https://omnideck28.vercel.app) | React, Three.js, GSAP, Tailwind |
