@@ -67,7 +67,7 @@
 |---------|-------------|------|
 | [🩺 MedPulse AI](https://github.com/yarnagulagauravdeep-cyber/Medical-Analysis-Chatbot) | Metric-guided clinical profiling and diagnostic reasoning portal — parses symptoms alongside vital signs (BP, sugar, heart rate, SpO2) to map clinical priority paths via a serverless AI reasoning layer powered by the Google Gemini API with multi-key failover rotation · [Live Demo ↗](https://medical-analysis-chatbot.vercel.app/) | React, Vite, Tailwind, Node.js, Express, Gemini API |
 | [⚛️ React Projects](https://github.com/yarnagulagauravdeep-cyber/React-projects) | Monorepo of React apps — components practice, notes app, and Apple iPhone 15 Pro clone with GSAP animations | React, Tailwind, GSAP |
-| [📰 Newspaper Search Agent](https://github.com/yarnagulagauravdeep-cyber/newspaper_search_agent_using_newsapi) | Web app to search & browse real-time news articles with a responsive card grid UI | HTML, CSS, JS, NewsAPI |
+| [🌿 SkillSwap](https://github.com/yarnagulagauravdeep-cyber/skillswap) | Community skill-sharing & micro-volunteering platform — teach/learn matching, a full request → accept → confirm → complete exchange lifecycle with credit escrow, live scheduling, and material tracking, plus optional local LM Studio integration for AI-assisted search · Built for VIT Chennai's Hackwarts hackathon | Next.js, TypeScript, Tailwind, Tremor, GSAP, Three.js, SQLite |
 | [🟢 OMNIDECK](https://github.com/yarnagulagauravdeep-cyber/ben10-project) | Immersive 3D terminal database for the Ben 10 universe — features floating alien models, glass-morphism UI, and autonomous GSAP breathing animations · [Live Demo ↗](https://omnideck28.vercel.app) | React, Three.js, GSAP, Tailwind |
 
 ---
