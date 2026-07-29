@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,EC4899&height=200&section=header&text=Gaurav%20Deep&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%7C%20Full%20Stack%20Dev%20%7C%20VIT%20Chennai%202029&descSize=18&descAlignY=58" width="100%" />
 
@@ -68,7 +68,7 @@
 | [🩺 MedPulse AI](https://github.com/yarnagulagauravdeep-cyber/Medical-Analysis-Chatbot) | Metric-guided clinical profiling and diagnostic reasoning portal — parses symptoms alongside vital signs (BP, sugar, heart rate, SpO2) to map clinical priority paths via a serverless AI reasoning layer powered by the Google Gemini API with multi-key failover rotation · [Live Demo ↗](https://medical-analysis-chatbot.vercel.app/) | React, Vite, Tailwind, Node.js, Express, Gemini API |
 | [💼 Job Portal](https://github.com/yarnagulagauravdeep-cyber/job-portal) | Full-stack MERN job portal — candidates browse and filter jobs by location, title, and salary, apply with duplicate-submission checks, and track application status; recruiters register a company profile, post job listings, and review, accept, or reject applicants from a dashboard | React, Redux Toolkit, Tailwind CSS, Node.js, Express, MongoDB, JWT |
 | [🌿 SkillSwap](https://github.com/yarnagulagauravdeep-cyber/skillswap) | Community skill-sharing & micro-volunteering platform — teach/learn matching, a full request → accept → confirm → complete exchange lifecycle with credit escrow, live scheduling, and material tracking, plus optional local LM Studio integration for AI-assisted search · Built for VIT Chennai's Hackwarts hackathon | Next.js, TypeScript, Tailwind, Tremor, GSAP, Three.js, SQLite |
-| [🟢 OMNIDECK](https://github.com/yarnagulagauravdeep-cyber/ben10-project) | Immersive 3D terminal database for the Ben 10 universe — features floating alien models, glass-morphism UI, and autonomous GSAP breathing animations · [Live Demo ↗](https://omnideck28.vercel.app) | React, Three.js, GSAP, Tailwind |
+| [🎯 AnalyzeCV](https://github.com/yarnagulagauravdeep-cyber/ai-resume-builder) | AI-powered interview preparation companion — parses resume PDFs and job descriptions to generate compatibility scores, skill gap analysis, structured 7-day prep roadmaps, and targeted technical & behavioral Q&A sheets with model answers | React, Tailwind, Node.js, Express, MongoDB, Google Gemini API |
 
 ---
 
