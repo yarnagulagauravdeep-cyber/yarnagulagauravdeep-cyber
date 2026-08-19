@@ -1,4 +1,4 @@
-  <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,8B5CF6,EC4899&height=200&section=header&text=Gaurav%20Deep&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%7C%20Full%20Stack%20Dev%20%7C%20VIT%20Chennai%202029&descSize=18&descAlignY=58" width="100%" />
 
@@ -42,16 +42,17 @@
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Database**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**GenAI / APIs**
+**GenAI**
 
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Google AI SDK](https://img.shields.io/badge/Google_AI_SDK-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 **Tools & Platforms**
 
