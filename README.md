@@ -54,7 +54,7 @@
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yarnagulagauravdeep-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=ffffff" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=yarnagulagauravdeep-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=ffffff&cache_seconds=86400" height="170" alt="GitHub Stats" />
 &nbsp;
 <img src="https://streak-stats.demolab.com/?user=yarnagulagauravdeep-cyber&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=EC4899&currStreakLabel=6366F1&sideLabels=8B5CF6&dates=888888" height="170" alt="GitHub Streak" />
 
@@ -83,6 +83,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yarnagulagauravdeep-cyber&bg_color=0D1117&color=6366F1&line=8B5CF6&point=EC4899&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
+
+
 
 ---
 
